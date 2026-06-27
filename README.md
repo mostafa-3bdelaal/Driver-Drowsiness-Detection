@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0a79740d-7c1e-48cf-92b1-259219a9a8a5
+
 # Driver-Drowsiness-Detection
 Real-time driver drowsiness detection using MediaPipe Face Mesh, OpenCV, and Eye Aspect Ratio (EAR) with an audio alert system.
 
@@ -90,4 +94,10 @@ The alarm activates only when:
 - Both remain closed longer than the configured threshold.
 
 This reduces false alarms caused by blinking or closing only one eye.
+
+---
+
+
+https://github.com/user-attachments/assets/6b36bcb3-5b7c-4fca-a547-6addd3cec800
+
 
