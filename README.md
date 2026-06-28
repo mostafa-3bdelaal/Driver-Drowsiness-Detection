@@ -2,8 +2,7 @@
 
 https://github.com/user-attachments/assets/0a79740d-7c1e-48cf-92b1-259219a9a8a5
 
-# Driver-Drowsiness-Detection
-Real-time driver drowsiness detection using MediaPipe Face Mesh, OpenCV, and Eye Aspect Ratio (EAR) with an audio alert system.
+
 
 
 # 🚗 Driver Drowsiness Detection
